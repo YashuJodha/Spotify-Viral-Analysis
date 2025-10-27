@@ -72,5 +72,3 @@ Tracking 'Dance Monkey' revealed its explosive growth, peaking simultaneously on
 This analysis highlights fascinating patterns in music virality. Some songs achieve massive, sustained global reach, while certain artists demonstrate a knack for repeatedly capturing the viral spotlight with multiple tracks. Tracking individual song trajectories provides a clear view of how trends propagate worldwide.
 
 ---
-
-*(Optional: Add sections like "Future Work" or "How to Run This Code" if you like)*
